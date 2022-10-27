@@ -1,10 +1,13 @@
 {
-  "name": "r7toWUl5HA3sPjyo0MDLHnLCN5pxKooSuPPwDgSuWH37OyMHs1",
+  "name": "นิเคอิแม่นๆ เล่นที่ไหน - เว็บใหม่ huay999 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.24",
   "description": "นิเคอิแม่นๆ รางวัลที่ ถึง นิเคอิแม่นๆ Huay999 หวยออนไลน์ อันดับหนึ่ง 5มี 100 รางวัล รางวัลละ 20000 บาท",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["นิเคอิแม่นๆ","นิเคอิแม่นๆ Huay999"],
+  "keywords": [
+    "นิเคอิแม่นๆ",
+    "นิเคอิแม่นๆ Huay999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
