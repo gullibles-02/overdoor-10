@@ -1,10 +1,13 @@
 {
-  "name": "pMnbAqWGqB6V8TwQWdFKOuf313bq5kQ2AtFNMEjZ1hycjG89pN",
+  "name": "หวยหุ้นแม่นๆ เลือกยังไง - เว็บใหม่ settee bet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "หวยหุ้นแม่นๆ หวยไทยรัฐ หวยหุ้นแม่นๆ ว่าด้วย หวยหุ้นแม่นๆ ที่ Settee Bet เว็บหวยออนไลน์ อันดับหนึ่ง ในงวดวันที่ 16 กุมภาพันธ์ 2566 ที่ผ่านมา ทำผลงานได้ดี เช",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["หวยหุ้นแม่นๆ","หวยหุ้นแม่นๆ Settee Bet"],
+  "keywords": [
+    "หวยหุ้นแม่นๆ",
+    "หวยหุ้นแม่นๆ Settee Bet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
