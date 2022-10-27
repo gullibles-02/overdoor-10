@@ -2,9 +2,9 @@
   "name": "IM89y0VQIAmu3IjjBVoVhSeNxgrcD0YkmRGnlEJ3li6gi8i4UW",
   "theme": "syntax",
   "version": "1.0.6",
-  "description": "RUAY อัตรา จ่าย เลขเม็ดเดียว สำหรับ RUAY อัตรา จ่าย ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง 89 089ฟัน 8เลข 2 ตัว 81 82 83ได้แนวทางเลขเด็ดจากเจ๊ฟองเบียร์กันแ",
+  "description": "ซื้อ หวยในเว็บ ผลหวยพม่า ถึง ซื้อ หวยในเว็บ Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด ประจำงวดวันที่ 9 พฤษภาคม 2566 รางวัลที่ออกสองตัวรอบเช้า 13 ส่วนรอบบ่าย",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["RUAY อัตรา จ่าย","RUAY","อัตรา","จ่าย","RUAY Huaydee","อัตรา Huaydee","จ่าย Huaydee"],
+  "keywords": ["ซื้อ หวยในเว็บ","ซื้อ","หวยในเว็บ","ซื้อ Huaylike","หวยในเว็บ Huaylike"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
