@@ -1,10 +1,16 @@
 {
-  "name": "zDsdLyeW7wgzkhS6EIX2YofJzfi7vAhb7rdFxe9fKPWLiqby7H",
+  "name": "หุ้นจีนszse component เล่นที่ไหน - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "หุ้นจีนszse component รูปแบบการเล่นหวยลาว แต่ว่า หุ้นจีนszse component ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง นั้นไม่ยากอย่างที่คิด ทุกท่านสามารถศึกษา ดูได้จา",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["หุ้นจีนSZSE COMPONENT","หุ้นจีนSZSE","COMPONENT","หุ้นจีนSZSE Ruay","COMPONENT Ruay"],
+  "keywords": [
+    "หุ้นจีนSZSE COMPONENT",
+    "หุ้นจีนSZSE",
+    "COMPONENT",
+    "หุ้นจีนSZSE Ruay",
+    "COMPONENT Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
