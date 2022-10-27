@@ -1,10 +1,20 @@
 {
-  "name": "1WyRxYz6dgExoP0hNGDoUDgIES7tENRJHXvcWszO2wOFagP4bb",
+  "name": "ผล หวย อินเดีย ล่าสุด ดูที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "ผล หวย อินเดีย ล่าสุด เลขเด็ด อนึ่ง ผล หวย อินเดีย ล่าสุด Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด งวดประจำวันพฤหัสบดีที่ 2 พฤษภาคม 2566 เว็บไซต์หวยไทย",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["ผล หวย อินเดีย ล่าสุด","ผล","หวย","อินเดีย","ล่าสุด","ผล Thailotto","หวย Thailotto","อินเดีย Thailotto","ล่าสุด Thailotto"],
+  "keywords": [
+    "ผล หวย อินเดีย ล่าสุด",
+    "ผล",
+    "หวย",
+    "อินเดีย",
+    "ล่าสุด",
+    "ผล Thailotto",
+    "หวย Thailotto",
+    "อินเดีย Thailotto",
+    "ล่าสุด Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
