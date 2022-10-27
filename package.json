@@ -1,10 +1,22 @@
 {
-  "name": "fPCLUH9V9kGuvdeOPj9LKrdkfz9J3zwUKeSVoBQxBhLxoRaRs8",
+  "name": "ตรวจ หวย 1 ตุลาคม 65 ทำไมถึงนิยม - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "ตรวจ หวย 1 ตุลาคม 65 ผลการออกรางวัล กะ ตรวจ หวย 1 ตุลาคม 65 ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮ",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["ตรวจ หวย 1 ตุลาคม 65","ตรวจ","หวย","1","ตุลาคม","65","ตรวจ Huay","หวย Huay","1 Huay","ตุลาคม Huay","65 Huay"],
+  "keywords": [
+    "ตรวจ หวย 1 ตุลาคม 65",
+    "ตรวจ",
+    "หวย",
+    "1",
+    "ตุลาคม",
+    "65",
+    "ตรวจ Huay",
+    "หวย Huay",
+    "1 Huay",
+    "ตุลาคม Huay",
+    "65 Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
