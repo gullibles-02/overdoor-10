@@ -1,16 +1,10 @@
 {
-  "name": "huay เข้าสู่ระบบ เล่นยังไง - เว็บใหม่ huay24 2023 ล่าสุด",
+  "name": "hofwthV3rgb2eyi9CDTagmJ7yO6w60WItEntJ4nQ1ahSIYmkt0",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "huay เข้าสู่ระบบ หวยไทยรัฐ huay เข้าสู่ระบบ ด้วย huay เข้าสู่ระบบ Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด เป็นชุดตารางเลขเด่นผลงานดีที่มีคอหวยติดตามเป็นจำนวนม",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": [
-    "HUAY เข้าสู่ระบบ",
-    "HUAY",
-    "เข้าสู่ระบบ",
-    "HUAY Huay24",
-    "เข้าสู่ระบบ Huay24"
-  ],
+  "keywords": ["HUAY เข้าสู่ระบบ","HUAY","เข้าสู่ระบบ","HUAY Huay24","เข้าสู่ระบบ Huay24"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
