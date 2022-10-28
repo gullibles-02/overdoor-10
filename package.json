@@ -1,10 +1,18 @@
 {
-  "name": "C0S2QyrexLxEiDzWPjKW9n79RdP2O4XleGX7O1qiLIbP8qUZHG",
+  "name": "ดู หวยหุ้นอียิปต์ สด สรุปว่าอะไร - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "ดู หวยหุ้นอียิปต์ สด หวยรัฐบาลไทย และ ดู หวยหุ้นอียิปต์ สด Jetsadabet หวยออนไลน์ อันดับหนึ่ง แทงหวยออนไลน์กับ Huaytao แน่นอนว่า หวยรัฐบาลไทย หรือ หวยใต้ดิน",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["ดู หวยหุ้นอียิปต์ สด","ดู","หวยหุ้นอียิปต์","สด","ดู Jetsadabet","หวยหุ้นอียิปต์ Jetsadabet","สด Jetsadabet"],
+  "keywords": [
+    "ดู หวยหุ้นอียิปต์ สด",
+    "ดู",
+    "หวยหุ้นอียิปต์",
+    "สด",
+    "ดู Jetsadabet",
+    "หวยหุ้นอียิปต์ Jetsadabet",
+    "สด Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
