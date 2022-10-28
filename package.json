@@ -1,20 +1,10 @@
 {
-  "name": "วิเคราะห์หวย ฮั่ ง เส็ง สรุปว่าอะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
+  "name": "PExAxqLUQpnucyWsSesyFU0cD5wKwSiTWBVjFNCkQ5YYpgnGfK",
   "theme": "syntax",
   "version": "1.0.72",
-  "description": "วิเคราะห์หวย ฮั่ ง เส็ง หวยไทยรัฐ ทว่า วิเคราะห์หวย ฮั่ ง เส็ง Huaylike หวยออนไลน์ อันดับหนึ่ง งวดประจำวันพุธที่ 16 ธันวาคม 2566 ชุดเลขผลงานดีที่คอหวยติดตา",
+  "description": "สถิติหวย ย้อน หลัง 10 ปี ปกติสลากหรือหวยสดธนาคารจะมีการออกรางวัลบนพื้นฐานของตัวเลข เว้นแต่ สถิติหวย ย้อน หลัง 10 ปี ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": [
-    "วิเคราะห์หวย ฮั่ ง เส็ง",
-    "วิเคราะห์หวย",
-    "ฮั่",
-    "ง",
-    "เส็ง",
-    "วิเคราะห์หวย Huaylike",
-    "ฮั่ Huaylike",
-    "ง Huaylike",
-    "เส็ง Huaylike"
-  ],
+  "keywords": ["สถิติหวย ย้อน หลัง 10 ปี","สถิติหวย","ย้อน","หลัง","10","ปี","สถิติหวย Huay Happy","ย้อน Huay Happy","หลัง Huay Happy","10 Huay Happy","ปี Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
