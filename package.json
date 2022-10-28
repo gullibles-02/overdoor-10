@@ -1,10 +1,22 @@
 {
-  "name": "HPJd0qzli6rgRMf7Lw5PXtgHQeeS6UTXrkLmSD8qkeNbM4tszx",
+  "name": "หวย หุ้น เกาหลี เลข เยอะ เลือกยังไง - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.63",
   "description": "หวย หุ้น เกาหลี เลข เยอะ 3 เนื่องด้วย หวย หุ้น เกาหลี เลข เยอะ Choke หวยออนไลน์ อันดับหนึ่ง ตัวบน จะอิงจากเลข 3 ตัวหลัง คือ เลขหลักหน่วยและเลขหลังจุดทศนิยม",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["หวย หุ้น เกาหลี เลข เยอะ","หวย","หุ้น","เกาหลี","เลข","เยอะ","หวย Choke","หุ้น Choke","เกาหลี Choke","เลข Choke","เยอะ Choke"],
+  "keywords": [
+    "หวย หุ้น เกาหลี เลข เยอะ",
+    "หวย",
+    "หุ้น",
+    "เกาหลี",
+    "เลข",
+    "เยอะ",
+    "หวย Choke",
+    "หุ้น Choke",
+    "เกาหลี Choke",
+    "เลข Choke",
+    "เยอะ Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
