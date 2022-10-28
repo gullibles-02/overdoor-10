@@ -1,13 +1,10 @@
 {
-  "name": "ตรวจหวยมาเลย์วันนี้ คืออะไร - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "Sv8iN3eLsX3ObEiUFcUH0iKMwCrYBuiWtNq0RryZeZZXwBiivO",
   "theme": "syntax",
   "version": "1.0.77",
   "description": "ตรวจหวยมาเลย์วันนี้ เด่น ก่อน ตรวจหวยมาเลย์วันนี้ Huaydee หวยออนไลน์ อันดับหนึ่ง 4-7-1-8 จับชนเลข 3 ตัว และ 2 ตัว ได้ดังนี้641-614-416-461-146-164348-384-4",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": [
-    "ตรวจหวยมาเลย์วันนี้",
-    "ตรวจหวยมาเลย์วันนี้ Huaydee"
-  ],
+  "keywords": ["ตรวจหวยมาเลย์วันนี้","ตรวจหวยมาเลย์วันนี้ Huaydee"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
