@@ -1,10 +1,20 @@
 {
-  "name": "pqeEboYUJne05IXKoJRMm1Kg6CZNCAn5ASOrJY02chIsNcvluy",
+  "name": "วิเคราะห์หวย ฮั่ ง เส็ง สรุปว่าอะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.71",
   "description": "วิเคราะห์หวย ฮั่ ง เส็ง หวยไทยรัฐ ทว่า วิเคราะห์หวย ฮั่ ง เส็ง Huaylike หวยออนไลน์ อันดับหนึ่ง งวดประจำวันพุธที่ 16 ธันวาคม 2566 ชุดเลขผลงานดีที่คอหวยติดตา",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["วิเคราะห์หวย ฮั่ ง เส็ง","วิเคราะห์หวย","ฮั่","ง","เส็ง","วิเคราะห์หวย Huaylike","ฮั่ Huaylike","ง Huaylike","เส็ง Huaylike"],
+  "keywords": [
+    "วิเคราะห์หวย ฮั่ ง เส็ง",
+    "วิเคราะห์หวย",
+    "ฮั่",
+    "ง",
+    "เส็ง",
+    "วิเคราะห์หวย Huaylike",
+    "ฮั่ Huaylike",
+    "ง Huaylike",
+    "เส็ง Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
