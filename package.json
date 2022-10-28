@@ -1,10 +1,16 @@
 {
-  "name": "BeryX2wcFF9zweNehLKBoJSFnSjrgKrwOsX8fzSBXpuTe6VtWV",
+  "name": "หุ้นจีน index คืออะไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.75",
   "description": "หุ้นจีน index ฟัน ได้แก่ หุ้นจีน index Huay Happy หวยออนไลน์ อันดับหนึ่ง 55555ได้แนวทางเลขเด็ดจากเจ๊นุ๊กกันแล้ว หุ้นจีน index เลขครั้งนี้ได้มาแล้ว ต้องบอกเ",
   "repository": "https://github.com/gullibles-02/overdoor-10",
-  "keywords": ["หุ้นจีน INDEX","หุ้นจีน","INDEX","หุ้นจีน Huay Happy","INDEX Huay Happy"],
+  "keywords": [
+    "หุ้นจีน INDEX",
+    "หุ้นจีน",
+    "INDEX",
+    "หุ้นจีน Huay Happy",
+    "INDEX Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
